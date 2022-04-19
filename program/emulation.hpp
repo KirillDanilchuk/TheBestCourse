@@ -1,10 +1,10 @@
-class IEmulation {
+class IEmulator {
 };
 
-class DendyEmulation : public IEmulation {
+class DendyEmulator : public IEmulator {
 
 };
 
-class PSEmulation : public IEmulation {
+class PSEmulator : public IEmulator {
 
 };
