@@ -2,5 +2,6 @@
 
 class Session {
  public:
-  Session();
+  Session() = default;
+  ~Session() = default;
 };
