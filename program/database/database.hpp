@@ -5,7 +5,6 @@ class Database {
   Database() = default;
   bool Connect();
   std::string Query(const std::string& query);
-  std::string Status();
 
  private:
   void* connection_;
