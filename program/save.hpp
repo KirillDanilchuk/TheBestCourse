@@ -8,4 +8,8 @@ class Session {
   void Save() {
     // pass
   }
+
+  void Load() {
+      // pass
+  }
 };
