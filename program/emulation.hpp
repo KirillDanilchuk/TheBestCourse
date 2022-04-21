@@ -19,7 +19,3 @@ class PS3Emulator : public IEmulator {
 
 };
 
-class PS3Emulator : public IEmulator {
-
-};
-
