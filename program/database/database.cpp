@@ -8,3 +8,7 @@ void Database::connection() {
 std::string Database::Query(const std::string& query) {
   // pass
 }
+
+std::string Database::Status() {
+    //pass
+}
